@@ -9,4 +9,6 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="acquiring_log_progress_dialog_message">acquiring_log_progress_dialog_message</string>
+    <string name="failed_to_get_log_message">failed_to_get_log_message</string>
 </resources>
